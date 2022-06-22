@@ -11,8 +11,6 @@ target 'RukunApp' do
 
    pod 'FirebaseUI/Auth'
 
-   pod 'FirebaseUI/Google'
-   pod 'FirebaseUI/Facebook'
    pod 'FirebaseUI/OAuth'
    pod 'FirebaseUI/Phone'
    pod 'RxSwift', '6.5.0'
